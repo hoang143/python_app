@@ -6,6 +6,6 @@ altair
 plotly
 plotly-express
 requests
-streamlit==1.10.0
+streamlit
 streamlit_option_menu
 leafmap
