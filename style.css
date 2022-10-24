@@ -1,0 +1,37 @@
+.appview-container .main .block-container{ 
+    padding-top: 3rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-bottom: 0rem;
+    
+}  
+header {visibility: hidden;}
+footer {visibility: hidden;}
+.css-hxt7ib{
+    padding-top: 3rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+.css-16huue1 .effi0qh3{
+	font-size: 28px;
+}
+
+/*.user-select-none .svg-container{
+	width: 300px;
+	height: 300px;
+}
+.main-svg{
+	width: 300px;
+	height: 300px;
+}
+.user-select-none .svg-container{
+	width: 300px;
+	height: 300px;
+}
+*/
+.reportview-container {
+    background: url(data:image/{main_bg_ext};base64,{base64.b64encode(open(main_bg, "rb").read()).decode()})
+}
+.sidebar .sidebar-content {
+    background: url(data:image/{side_bg_ext};base64,{base64.b64encode(open(side_bg, "rb").read()).decode()})
+}

@@ -1,0 +1,11 @@
+pandas
+numpy
+plost
+matplotlib
+altair
+plotly
+plotly-express
+requests
+streamlit==1.10.0
+
+
