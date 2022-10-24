@@ -35,7 +35,6 @@ display_section = st.empty()
 gauge_section = st.empty()
 
 # ------------------------------ Functions ------------------------------
-@st.cache(suppress_st_warning=True)
 def plot_gauge(_gauge_val, unit, title1):
 	fig = go.Figure(go.Indicator(
 	    mode = "gauge+number",
