@@ -6,7 +6,6 @@ import requests
 import json
 from streamlit_option_menu import option_menu
 from apps import collect, depthsurvey   # import your app modules here
-from streamlit_echarts import st_echarts
 
 import pandas as pd
 import numpy as np
