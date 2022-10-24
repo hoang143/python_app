@@ -8,4 +8,4 @@ plotly-express
 requests
 streamlit==1.10.0
 streamlit_option_menu
-leafmap.foliumap
+leafmap
